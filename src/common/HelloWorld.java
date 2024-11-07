@@ -3,8 +3,8 @@ package common;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        //hejsan - här är min kommentar hurra!
-        System.out.println("Hello World im back!");
 
+        System.out.println("Hello Klasskompisar!");
+        System.out.println("Hejsan");
     }
 }
